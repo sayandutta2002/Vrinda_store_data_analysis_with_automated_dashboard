@@ -9,5 +9,6 @@ I covered below topics for this analysis:
   5. List top 10 states contributing the sales?
   6. Relation betwween Age and Gender based on numbers.
   7. Which channel or website contributing to maximum sales?
-  8. Highest selling Categories
+  8. Highest selling Categories.
+  9. 
 In this project I have done data cleaning, processing, analysis and  automated dashboard in Excel.
