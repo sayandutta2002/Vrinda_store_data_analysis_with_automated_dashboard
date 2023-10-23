@@ -1,6 +1,6 @@
 # Vrinda_store_data_analysis_with_automated_dashboard
 OBJECTIVE:
-Vrinda stores wants an annual report for 2022, So that they can understand their customers and grow more sales in 2023.so I give them their store analysis with automated dashboards in excel.
+Vrinda stores wants an annual report for 2022, So that they can understand their customers and grow more sales in 2023.I give them their store analysis with automated dashboards in excel.
 I covered below topics for this analysis:
   1. Compare the sales and orders
   2. Which month got the highest sales orders?
