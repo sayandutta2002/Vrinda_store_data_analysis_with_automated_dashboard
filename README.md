@@ -10,5 +10,4 @@ I covered below topics for this analysis:
   6. Relation betwween Age and Gender based on numbers.
   7. Which channel or website contributing to maximum sales?
   8. Highest selling Categories.
-   
 In this project I have done data cleaning, processing, analysis and  automated dashboard in Excel.
